@@ -1,0 +1,57 @@
+[
+    {
+        "question": "Quel est le langage de balisage utilisé pour structurer le contenu sur le web?",
+        "options": ["HTML", "CSS", "JavaScript", "Python"],
+        "answer": "HTML"
+    },
+    {
+        "question": "Quel langage est utilisé pour styliser les pages web?",
+        "options": ["HTML", "CSS", "JavaScript", "PHP"],
+        "answer": "CSS"
+    },
+    {
+        "question": "Quel langage est principalement utilisé pour ajouter de l'interactivité aux pages web?",
+        "options": ["HTML", "CSS", "JavaScript", "SQL"],
+        "answer": "JavaScript"
+    },
+    {
+        "question": "Quel est le protocole standard pour transférer des documents hypertextes sur le web?",
+        "options": ["FTP", "HTTP", "SMTP", "SSH"],
+        "answer": "HTTP"
+    },
+    {
+        "question": "Quel est le langage de programmation côté serveur le plus populaire?",
+        "options": ["PHP", "Ruby", "Python", "JavaScript"],
+        "answer": "PHP"
+    },
+    {
+        "question": "Quel est le framework JavaScript le plus utilisé pour construire des interfaces utilisateur?",
+        "options": ["Angular", "React", "Vue.js", "Ember.js"],
+        "answer": "React"
+    },
+    {
+        "question": "Quel est le système de gestion de base de données relationnelle le plus utilisé?",
+        "options": ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
+        "answer": "MySQL"
+    },
+    {
+        "question": "Quel est le nom du modèle de conception utilisé pour séparer les préoccupations dans les applications web?",
+        "options": ["MVC", "MVVM", "MVP", "MVW"],
+        "answer": "MVC"
+    },
+    {
+        "question": "Quel est le nom du langage de requête utilisé pour interroger les bases de données?",
+        "options": ["SQL", "NoSQL", "GraphQL", "REST"],
+        "answer": "SQL"
+    },
+    {
+        "question": "Quel est le nom de la bibliothèque JavaScript utilisée pour manipuler le DOM plus facilement?",
+        "options": ["jQuery", "Lodash", "Underscore", "D3.js"],
+        "answer": "jQuery"
+    },
+    {
+        "question": "Quel est le nom de l'outil de gestion de versions le plus populaire pour le code source?",
+        "options": ["Git", "SVN", "Mercurial", "CVS"],
+        "answer": "Git"
+    }
+]
